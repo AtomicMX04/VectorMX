@@ -8,7 +8,7 @@ Aplicación de escritorio desarrollada de forma nativa utilizando **Electron** y
 
 Puedes descargar la versión más reciente y estable directamente desde nuestra sección oficial de lanzamientos:
 
-👉 **[Descargar FanPelis-desktop desde los Releases](https://github.com/VectorMX/FanPelis-desktop/releases)**
+👉 **[Descargar FanPelis-desktop desde los Releases](https://github.com/AtomicMX04/VectorMX/releases/tag/v1.0.0)**
 
 ### Instrucciones de uso:
 1. Entra al enlace de arriba y descarga el archivo comprimido `.rar` de la última versión.
